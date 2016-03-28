@@ -13,8 +13,8 @@
         <telerik:RadComboBox ID="cmbTest" runat="server" AutoPostBack="true" OnSelectedIndexChanged="cmbTest_SelectedIndexChanged"
             CheckBoxes="true" CheckedItemsTexts="DisplayAllInInput"  EmptyMessage="--SELECT--" Width="250px" EnableCheckAllItemsCheckBox="true">
             <Items>
-                <telerik:RadComboBoxItem Text="hello world" Value="1" />
-                <telerik:RadComboBoxItem Text="hello world1" Value="2" />
+                <telerik:RadComboBoxItem Text="hello1 world" Value="1" />
+                <telerik:RadComboBoxItem Text="hello2 world1" Value="2" />
                 <telerik:RadComboBoxItem Text="hello world2" Value="3" />
                 <telerik:RadComboBoxItem Text="hello world3" Value="4" />
                 <telerik:RadComboBoxItem Text="hello world4" Value="5" />
