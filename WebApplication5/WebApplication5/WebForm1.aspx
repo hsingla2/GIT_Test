@@ -22,6 +22,7 @@
                 <telerik:RadComboBoxItem Text="hello world6" Value="7" />
                 <telerik:RadComboBoxItem Text="hello world7" Value="8" />
                 <telerik:RadComboBoxItem Text="hello world8" Value="9" />
+                <telerik:RadComboBoxItem Text="hello world JK" Value="10" />
             </Items>
         </telerik:RadComboBox>
     </div>
