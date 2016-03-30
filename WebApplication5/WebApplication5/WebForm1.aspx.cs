@@ -11,7 +11,7 @@ namespace WebApplication5
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            cmbTest.SelectedValue = "1";
         }
 
         protected void cmbTest_SelectedIndexChanged(object sender, Telerik.Web.UI.RadComboBoxSelectedIndexChangedEventArgs e)
