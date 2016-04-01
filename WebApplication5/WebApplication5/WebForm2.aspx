@@ -13,6 +13,11 @@
          <asp:Button ID="btnNew" Text="New Button added" runat="server" />
     hitesh
     </div>
+        <div>
+       rajiv sharma1
+         <asp:Button ID="Button1" Text="New Button added" runat="server" />
+    hitesh
+    </div>
     </form>
 </body>
 </html>
