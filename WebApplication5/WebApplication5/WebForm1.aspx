@@ -24,12 +24,6 @@
                 <telerik:RadComboBoxItem Text="hello world8" Value="9" />
                 <telerik:RadComboBoxItem Text="hello world JK123" Value="10" />
                 <telerik:RadComboBoxItem Text="hello world JK12" Value="11" />
-                <telerik:RadComboBoxItem Text="hello world6" Value="7" />
-                <telerik:RadComboBoxItem Text="hello world7" Value="8" />
-                <telerik:RadComboBoxItem Text="hello world8" Value="9" />
-                <telerik:RadComboBoxItem Text="hello world JK123" Value="10" />
-                <telerik:RadComboBoxItem Text="hello world JK12" Value="11" />
-                <telerik:RadComboBoxItem Text="hello world6" Value="7" />
                 <telerik:RadComboBoxItem Text="hello world7" Value="8" />
                 <telerik:RadComboBoxItem Text="hello world8" Value="9" />
                 <telerik:RadComboBoxItem Text="hello world JK123" Value="10" />
