@@ -30,6 +30,7 @@
                 <telerik:RadComboBoxItem Text="hello world JK12" Value="11" />
             </Items>
         </telerik:RadComboBox>
+        <label>label for testing from system 1</label>
     </div>
     </form>
 </body>
